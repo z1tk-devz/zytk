@@ -89,3 +89,8 @@ body {
 aside {
     float: right;
 }
+
+.section {
+    float: left;
+}
+
