@@ -1,0 +1,1 @@
+function setFormMessage(formElement)
